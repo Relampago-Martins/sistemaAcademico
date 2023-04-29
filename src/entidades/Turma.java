@@ -12,6 +12,7 @@ public class Turma {
 		this.codigo = codigo;
 		this.vagas = vagas;
 		this.matriculados = new ArrayList<>();
+
 	}
 	
 	public void matricular(Aluno aluno) {
